@@ -16,7 +16,7 @@ Optamos por usar Deep Analytics e modelos de Machine e Deep Learning para supera
 
 ---
 ## Funcionalidades
--Análise de dados dos clientes
--Classificação de novos clientes
--ecomendação automatizada de limites de crédito
+- Análise de dados dos clientes
+- Classificação de novos clientes
+- Recomendação automatizada de limites de crédito
 
