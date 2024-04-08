@@ -21,7 +21,8 @@ Optamos por usar Deep Analytics e modelos de Machine e Deep Learning para supera
 - Recomendação automatizada de limites de crédito
 
 ## Autores
-- Gustavo Bertti
+### 2TDSB
+- Gustavo Bertti 
 - Gustavo Macedo da Silva
 - Luiz Felipe Tragl
 
