@@ -20,3 +20,8 @@ Optamos por usar Deep Analytics e modelos de Machine e Deep Learning para supera
 - Classificação de novos clientes
 - Recomendação automatizada de limites de crédito
 
+## Autores
+- Gustavo Bertti
+- Gustavo Macedo da Silva
+- Luiz Felipe Tragl
+
