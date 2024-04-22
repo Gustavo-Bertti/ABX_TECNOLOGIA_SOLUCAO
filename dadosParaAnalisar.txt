@@ -1,0 +1,12 @@
+percentualProtestos
+status
+AprovadoAnalista
+percentualRisco: onde 0 é baixo e 1 é alto;
+definicaoRisco: categorização de risco;
+valorAprovado: Valor que foi aprovado pelos analistas;
+endividamento: Endividamento informado na documentação da empresa;
+passivoCirculante: Passivo circulante informado na documentação da empresa;
+•	totalAtivo: Ativo informado na documentação da empresa;
+•	totalPatrimonioLiquido: Patrimonio líquido informado na documentação da empresa;
+faturamentoBruto: Faturamento bruto informado na documentação da empresa;
+scorePontualidade: score de pontualidade entre 0 e 1, onde é significa que o cliente é pontual;
