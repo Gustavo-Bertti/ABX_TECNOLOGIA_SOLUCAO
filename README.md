@@ -12,7 +12,7 @@ A empresa enfrenta o desafio de melhorar sua estratégia de análise de dados e 
 
 ## Solução
 
-Optamos por usar Deep Analytics e modelos de Machine e Deep Learning para superar esses desafios.
+Para resolver o desafio de analisar dados e conceder crédito de forma mais eficiente, utilizamos uma abordagem avançada chamada Machine Learning. Primeiro, identificamos quais informações dos clientes eram importantes, como histórico de pagamento e status de crédito. Em seguida, ensinamos um computador a entender essas informações e tomar decisões inteligentes, como determinar se um cliente é bom ou ruim para receber crédito. Usando uma técnica especial chamada SMOTE, conseguimos equilibrar as informações dos clientes para que o computador pudesse aprender de maneira justa sobre todos os tipos de clientes. No final, obtivemos um sistema que nos ajuda a decidir quais clientes são os melhores para trabalhar, o que é crucial para melhorar nossas operações de negócios e tomar decisões mais inteligentes.
 
 
 ## Funcionalidades
